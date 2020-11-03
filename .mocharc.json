@@ -3,7 +3,7 @@
   "extension": ["ts"],
   "target": "es6",
   "recursive": true,
-  "timeout": 5000,
+  "timeout": 20000,
   "spec": "test/**/*.ts",
   "watch-files": ["test"]
 }
