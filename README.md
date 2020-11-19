@@ -10,7 +10,7 @@ To run script, you need to have Node.js 10 or newer installed
 
 1. Setup project
 ```{bash}
-git clone git@github.com:golemfactory/gnt-migration-script
+git clone https://github.com/golemfactory/gnt-migration-script.git
 npm install
 ```
 2. Run script
