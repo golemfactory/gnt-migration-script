@@ -14,6 +14,7 @@ git clone https://github.com/golemfactory/gnt-migration-script.git
 cd gnt-migration-script
 npm install
 ```
+
 2. Run script
 You will need to set two environment variables
 * `RPC_URL`: HTTP URL to an ethereum node (e.g. infura)
