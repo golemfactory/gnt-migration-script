@@ -36,6 +36,5 @@ export const batchingTokenAddress = '0xA7dfb33234098c66FdE44907e918DAD70a3f211c'
 export const depositAddress = '0x98d3ca6528A2532Ffd9BDef50F92189568932570'
 
 // TODO set address after new token is deployed
-export const newTokenAddress = constants.AddressZero
-
+export const newTokenAddress = '0x7DD9c5Cba05E151C895FDe1CF355C9A1D5DA6429'
 
